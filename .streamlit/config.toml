@@ -1,0 +1,20 @@
+# ─────────────────────────────────────────────
+#  SmartSpend AI – Streamlit Theme Configuration
+#  .streamlit/config.toml
+# ─────────────────────────────────────────────
+
+[theme]
+# Deep navy base — professional fintech feel
+backgroundColor      = "#0D1117"
+secondaryBackgroundColor = "#161B22"
+textColor            = "#E6EDF3"
+primaryColor         = "#00C9A7"          # Teal accent — wealth/growth signal
+font                 = "sans serif"
+
+[server]
+maxUploadSize        = 50                 # Allow up to 50 MB file uploads
+enableCORS           = false
+headless             = true               # Required for cloud deployment
+
+[browser]
+gatherUsageStats     = false              # Privacy-first
