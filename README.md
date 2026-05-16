@@ -3,6 +3,9 @@
 > A professional fintech-grade personal finance dashboard built with Python, Streamlit, Pandas, Plotly, and Scikit-learn.
 
 ---
+## 🔗 Project Link
+https://smartspend-ai-urwwrjzq89adhpvycxlvkw.streamlit.app/
+---
 
 ## 📁 Project Structure
 
